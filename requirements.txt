@@ -1,0 +1,5 @@
+# TerraScout AI runs 100% on the Python 3 standard library.
+# Optional enhancement packages:
+requests>=2.31.0
+colorama>=0.4.6
+ollama>=0.3.3

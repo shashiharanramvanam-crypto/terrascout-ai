@@ -1,0 +1,85 @@
+[
+  {
+    "id": "chanterelle",
+    "common_name": "Golden Chanterelle",
+    "scientific_name": "Cantharellus cibarius",
+    "category": "fungi",
+    "edibility": "Choice Edible",
+    "season": "Mid-summer to late autumn",
+    "habitat": "Hardwood and coniferous forests, mossy slopes",
+    "key_features": "Funnel-shaped, egg-yolk yellow/orange, false gills (forked blunt ridges running down the stem), faint sweet apricot scent.",
+    "toxic_lookalike": "Jack-o'-Lantern mushroom (Omphalotus illudens) — has true sharp knife-like unbranched gills, grows in dense clusters on wood, lacks apricot scent, causes severe cramping.",
+    "foraging_rule": "Never pick if gills are razor-thin blades, or if flesh inside the stem is yellowish instead of solid white."
+  },
+  {
+    "id": "stella-jay",
+    "common_name": "Steller's Jay",
+    "scientific_name": "Cyanocitta stelleri",
+    "category": "bird",
+    "edibility": "Wildlife / Birding",
+    "season": "Year-round in mountain evergreen forests",
+    "habitat": "Pine, spruce, and fir forests at high elevations (3,000–10,000 ft)",
+    "key_features": "Prominent dark shaggy head crest, deep indigo-blue body, black hood and neck.",
+    "call_mnemonic": "Harsh, mechanical 'SHACK-SHACK-SHACK' or brassy 'KWEESH-KWEESH'. Excellent mimics of red-tailed hawk screams.",
+    "trail_tip": "Highly intelligent corvids that follow hikers along ridge trails hoping for dropped nuts or trail mix."
+  },
+  {
+    "id": "black-capped-chickadee",
+    "common_name": "Black-capped Chickadee",
+    "scientific_name": "Poecile atricapillus",
+    "category": "bird",
+    "edibility": "Wildlife / Birding",
+    "season": "Year-round",
+    "habitat": "Deciduous and mixed forests, parks, willow thickets",
+    "key_features": "Tiny compact songbird with black cap and bib, white cheeks, buffy flanks.",
+    "call_mnemonic": "Clear whistled 'fee-bee' in spring; rapid chattering 'chick-a-dee-dee-dee' warning call. More 'dee' notes signify greater threat level.",
+    "trail_tip": "If a chickadee chatters furiously with 6+ 'dee' syllables, check nearby trees — an owl or hawk is likely roosting above."
+  },
+  {
+    "id": "morel",
+    "common_name": "Yellow & Black Morel",
+    "scientific_name": "Morchella esculenta / elata",
+    "category": "fungi",
+    "edibility": "Choice Edible (Must be cooked)",
+    "season": "Spring (when lilacs bloom and soil hits 50°F)",
+    "habitat": "Old apple orchards, dead elm trees, burn sites from prior year wildfires",
+    "key_features": "Honeycomb-like pitted cap directly attached to the hollow stem. Interior must be completely hollow from tip to base.",
+    "toxic_lookalike": "False Morel (Gyromitra esculenta) — cap is wrinkled and brain-like (not pitted), interior is chambered or cottony, contains monomethylhydrazine (rocket fuel toxin).",
+    "foraging_rule": "Slice lengthwise: if NOT 100% hollow like a tube, discard immediately!"
+  },
+  {
+    "id": "eastern-white-pine",
+    "common_name": "Eastern White Pine",
+    "scientific_name": "Pinus strobus",
+    "category": "flora",
+    "edibility": "Edible (Needle Tea - High Vitamin C)",
+    "season": "Year-round evergreen",
+    "habitat": "Well-drained sandy or loamy soils across temperate forests",
+    "key_features": "Soft blue-green needles in bundles of FIVE (remember W-H-I-T-E = 5 letters). Gentle citrusy aroma.",
+    "toxic_lookalike": "Yew (Taxus) — flat solitary needles with bright red berries, highly toxic! Do NOT confuse with Yew or Ponderosa Pine.",
+    "trail_tip": "Steep 1 tablespoon of crushed young green needles in hot (not boiling) water for 10 minutes for an invigorating wild herbal tea containing 4x the Vitamin C of an orange."
+  },
+  {
+    "id": "wild-blackberry",
+    "common_name": "Wild Blackberry & Dewberry",
+    "scientific_name": "Rubus fruticosus",
+    "category": "flora",
+    "edibility": "Delicious Edible",
+    "season": "Late summer to mid-autumn",
+    "habitat": "Forest edges, sunny trail borders, old logging roads",
+    "key_features": "Aggregate fruit (drupelets) that stays attached to the white central core when picked (unlike raspberries which pull off hollow). Thorny canes.",
+    "trail_tip": "All compound aggregate berries (resembling raspberries or blackberries) in North America without milky sap are safe and non-toxic."
+  },
+  {
+    "id": "poison-hemlock",
+    "common_name": "Poison Hemlock",
+    "scientific_name": "Conium maculatum",
+    "category": "toxic_danger",
+    "edibility": "DEADLY POISONOUS",
+    "season": "Spring through autumn",
+    "habitat": "Roadsides, ditch banks, moist meadows, trail borders",
+    "key_features": "Smooth hollow green stems with DISTINCT PURPLE SPOTS/BLOTCHES, hairless stems, lacy fern-like leaves, white umbel flowers, mousy disagreeable odor.",
+    "toxic_lookalike": "Wild Carrot / Queen Anne's Lace (Daucus carota) — Wild carrot has HAIRY stems, NO purple blotches, and often a single dark purple/black floweret in the center of the white umbel.",
+    "foraging_rule": "'The Queen has hairy legs' (Queen Anne's lace has hair; Hemlock is hairless with purple blotches). Never eat wild umbel plants without 100% expert confirmation."
+  }
+]
