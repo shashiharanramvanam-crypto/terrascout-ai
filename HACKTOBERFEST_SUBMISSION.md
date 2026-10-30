@@ -123,7 +123,9 @@ Closed AI models are incentivized to keep users glued to the screen. Open innova
 
 Judges can inspect the complete agentic trajectory, tool calls, and automated testing that created TerraScout AI:
 
-{% agent_session building-terrascout-ai-offline-trail-dispatcher-powered-by-gemma-2 %}
+{% agent_session building-terrascout-ai-offline-backcountry-naturalist-powered-by-gemma-2-nvyiqv %}
+
+*(Direct link: [dev.to/agent_sessions/building-terrascout-ai-offline-backcountry-naturalist-powered-by-gemma-2-nvyiqv](https://dev.to/agent_sessions/building-terrascout-ai-offline-backcountry-naturalist-powered-by-gemma-2-nvyiqv))*
 
 ---
 
